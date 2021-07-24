@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá, meu nome é Pedro Sandes 👋
 
-<!--
-**pedrosandes/pedrosandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de React, estou nessa caminhada para aprender react e tentar ser melhor a cada dia, no momento faço parte do curso do [Estartando Devs](https://estartandodevs.com.br/) e eles estão juntos comigo nessa caminhada. Orgulhozamente de Lagarto, Sergipe, Brazil 🇧🇷
 
-Here are some ideas to get you started:
+- 🌱 No momento estou aprendendo mais sobre React. 
+- ⚙️ Masterizando: **HTML**,  **CSS**,  **JS**, **REACT**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📬 Entre em contato
+- GitHub: [github.com/pedrosandes][github]
+- LinkedIn: [Pedro Sandes][linkedin]
+- E-mail: pedrosandes122@gmail.com
+
+[linkedin]: https://www.linkedin.com/in/pedro-sandes-230988207/
+[github]: https://github.com/pedrosandes
