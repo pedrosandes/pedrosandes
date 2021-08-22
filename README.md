@@ -7,9 +7,9 @@ Sou estudante de React, estou nessa caminhada para aprender react e tentar ser m
 
 
 ### 📬 Entre em contato
-- Portfólio: [https://pedrosandes.github.io/Portfolio-2.0/]
+- Site: [Portfólio]
 - LinkedIn: [Pedro Sandes][linkedin]
 - E-mail: pedrosandes122@gmail.com
 
 [linkedin]: https://www.linkedin.com/in/pedro-sandes-230988207/
-[github]: https://github.com/pedrosandes
+[Portfólio]: https://pedrosandes.github.io/Portfolio-2.0/]
